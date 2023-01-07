@@ -8,7 +8,7 @@
 
 # Installing
 
-- Grab a download from the [Release Artifacts](https://github.com/realAliDevex/skiff-app/releases)
+- --Grab a download from the [Release Artifacts](https://github.com/realAliDevex/skiff-app/releases)--
 - [Compile from source](#dependencies)
 
 ---
@@ -32,6 +32,7 @@ It's Safe because it is simply a wrapper for the Skiff website, and no other dat
 #### Dependencies
 
 - [Rust](https://www.rust-lang.org/)
+- [Yarn](https://yarnpkg.com/)
 - [VS Code](https://code.visualstudio.com/)
   - [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
   - [tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode)
