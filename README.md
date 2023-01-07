@@ -1,5 +1,5 @@
-<h1 align="center">Skiff app</h1>
-
 <p align="center">
-    Skiff app is a Skiff wrapper that is still under development and was created using <a href="https://tauri.studio">Tauri</a>.
+  <img width="120" src="./images/Skiff.png" alt="Skiff">
+  <h1 align="center">Skiff</h1>
+  <p align="center">Skiff Desktop Application (Windows)</p>
 </p>
