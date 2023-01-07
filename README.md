@@ -13,6 +13,10 @@
 
 ---
 
+### What is Skiff?
+
+Skiff is a secure, decentralized platform for collaborating with your team. Create documents, notes, wikis, and more. Skiff also offers features like comments, markdown, tables, file storage, and embeds. Skiff prioritizes privacy, but also provides all the features you need in a collaboration platform.
+
 ### What is Skiff App?
 
 It's an unoffical wrapper for [Skiff](https://skiff.com/) that uses the lighweight library [Tauri](https://tauri.app/).
