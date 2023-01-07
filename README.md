@@ -8,7 +8,7 @@
 
 # Installing
 
-- ~~Grab a download from the [Release Artifacts](https://github.com/realAliDevex/skiff-app/releases)~~
+- Grab a download from the [Release Artifacts](https://github.com/realAliDevex/skiff-app/releases)
 - [Compile from source](#dependencies)
 
 ---
