@@ -1,7 +1,7 @@
 <p align="center">
   <img width="120" src="./images/Skiff.png" alt="Skiff">
-  <h1 align="center">Skiff</h1>
-  <p align="center">Skiff Desktop Application (Windows)</p>
+  <h1 align="center">Skiff Tauri</h1>
+  <p align="center">Skiff Tauri Desktop Application (Windows)</p>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 Skiff is a secure, decentralized platform for collaborating with your team. Create documents, notes, wikis, and more. Skiff also offers features like comments, markdown, tables, file storage, and embeds. Skiff prioritizes privacy, but also provides all the features you need in a collaboration platform.
 
-### What is Skiff App?
+### What is Skiff Tauri?
 
 It's an unoffical wrapper for [Skiff](https://skiff.com/) that uses the lighweight library [Tauri](https://tauri.app/).
 
