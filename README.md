@@ -8,7 +8,7 @@
 
 # Installing
 
-- ~~Grab a download from the [Release Artifacts](https://github.com/realAliDevex/skiff-app/releases)~~
+- Grab a download from the [Release Artifacts](https://github.com/realAliDevex/skiff-app/releases)
 - [Compile from source](#dependencies)
 
 ---
@@ -41,7 +41,7 @@ It's Safe because it is simply a wrapper for the Skiff website, and no other dat
 
 ```bash
 # Step 1:
-git clone https://github.com/realAliDevex/skiff-app.git
+git clone https://github.com/realAliDevex/skiff-tauri.git
 
 # Step 2:
 cd skiff-app
