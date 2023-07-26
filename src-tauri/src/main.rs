@@ -4,7 +4,13 @@ use tauri::{utils::config::parse::parse_value, Icon};
 #[allow(unused_imports)]
 use wry::*;
 use wry::application::{platform::windows::WindowExtWindows};
+
 fn main() -> wry::Result<()> {
+    #![cfg_attr(
+        all(not(debug_assertions), target_os = "windows"),
+        windows_subsystem = "windows"
+    )]
+    
     use wry::{
         application::{
             event::{Event, StartCause, WindowEvent},
