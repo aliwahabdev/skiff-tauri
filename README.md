@@ -41,7 +41,7 @@ It's Safe because it is simply a wrapper for the Skiff website, and no other dat
 
 ```bash
 # Step 1:
-git clone https://github.com/realAliDevex/skiff-tauri.git
+git clone https://github.com/aliwahabdev/skiff-tauri.git
 
 # Step 2:
 cd skiff-app
